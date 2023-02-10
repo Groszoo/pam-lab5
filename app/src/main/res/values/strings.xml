@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PAM App</string>
+    <string name="main_activity_log_in">OK, Dalej</string>
+    <string name="main_activity_write_in_chat">Pisz na chatcie</string>
+    <string name="main_activity_make_notes">Rób notatki</string>
+    <string name="main_activity_welcome">Witaj</string>
+    <string name="main_menu_about">O programie</string>
+    <string name="about_activity_app_name">PAM App</string>
+    <string name="about_activity_description">Aplikacja do chatu i pisania notatek</string>
+    <string name="about_activity_version">Wersja 1.1</string>
+    <string name="about_activity_authors">Autorzy:</string>
+    <string name="author_rs">Rafał Szadkowski</string>
+    <string name="drawer_notes">Notatki</string>
+    <string name="drawer_chat">Chat</string>
+    <string name="open_navigation_bar">Open navigation bar</string>
+    <string name="close_navigation_bar">Close navigation bar</string>
+    <string name="drawer_profile">Profil</string>
+    <string name="profile_fragment_placeholder">Profile Fragment</string>
+    <string name="notes_fragment_placeholder">Notes Fragment</string>
+    <string name="chat_fragment_placeholder">Chat Fragment</string>
+    <string name="drawer_header_description">Programowanie Aplikacji Mobilnych</string>
+    <string name="content_description_profile_icon">Ikona profilowa</string>
+    <string name="content_description_app_icon">Ikona aplikacji</string>
+    <string name="content_description_write_in_chat_icon">Ikona pisz na chatcie</string>
+    <string name="content_description_make_notes_icon">Ikona rób notatki</string>
+</resources>
