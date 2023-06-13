@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".PostActivity">
 
     <TextView
         android:id="@+id/textViewWelcome"
@@ -97,17 +97,6 @@
         android:text="Dodawanie postów"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/cardViewWriteInChat" />
-
-    <Button
-        android:id="@+id/buttonList"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="140dp"
-        android:text="Wyświetl listę postów"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/cardViewWriteInChat" />
 
